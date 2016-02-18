@@ -38,8 +38,6 @@ public class Fish
         color = c;
     }
 
-
-
     public int getAge()
     {
         return age;
