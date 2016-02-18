@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Location()
+comment0.text=\r\n\ Constructors\r\n
+comment1.params=nXCor\ nYCor
+comment1.target=Location(double,\ double)
+comment2.params=nLocation
+comment2.target=double\ distanceTo(Location)
+comment2.text=\r\n\ This\ is\ the\ distanceTo\ Method,\ it\ finds\ the\ distance\ between\ two\ locations.\r\n\ @param\ Other\ Location\ object.\r\n\ @return\ A\ double\ data\ type\ for\ the\ distance\ between\ the\ 2\ locations.\r\n
+comment3.params=oLocation
+comment3.target=boolean\ equals(Location)
+comment4.params=
+comment4.target=double\ getXCor()
+comment4.text=\r\n\ This\ is\ the\ getXCor\ Method,\ it\ returns\ xCor.\r\n\ @return\ A\ double\ data\ type\ for\ the\ xCor.\r\n
+comment5.params=
+comment5.target=double\ getYCor()
+comment5.text=\r\n\ This\ is\ the\ getYCor\ Method,\ it\ returns\ yCor.\r\n\ @return\ A\ double\ data\ type\ for\ the\ yCor.\r\n
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=shift
+comment0.target=Alphabet(int)
+comment1.params=shift
+comment1.target=java.lang.String\ getShifted(int)
+comment2.params=
+comment2.target=java.lang.String\ getSAlphabet()
+comment3.params=
+comment3.target=java.lang.String\ getPAlphabet()
+numComments=4

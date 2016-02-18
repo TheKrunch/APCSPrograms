@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nMessage
+comment0.target=Message(java.lang.String)
+comment1.params=
+comment1.target=int\ length()
+comment2.params=from\ to
+comment2.target=java.lang.String\ substring(int,\ int)
+comment3.params=from
+comment3.target=java.lang.String\ substring(int)
+comment4.params=str
+comment4.target=int\ indexOf(java.lang.String)
+comment5.params=other
+comment5.target=int\ compareTo(java.lang.String)
+numComments=6

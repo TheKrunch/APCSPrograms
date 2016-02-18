@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Planet()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Planet\r\n
+comment1.params=pName\ pMass\ pDiameter\ pSunDistance\ pIsAPlanet
+comment1.target=Planet(java.lang.String,\ double,\ double,\ double,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ getMass()
+comment4.params=
+comment4.target=double\ getDiameter()
+comment5.params=
+comment5.target=double\ getSunDistance()
+comment6.params=
+comment6.target=boolean\ getIsAPlanet()
+comment7.params=
+comment7.target=void\ toggleIsAPlanet()
+comment8.params=
+comment8.target=void\ printInfo()
+comment9.params=other
+comment9.target=double\ calcGravForce(Planet)
+numComments=10

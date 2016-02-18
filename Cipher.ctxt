@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=message\ key
+comment0.target=Cipher(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cipher\r\n
+comment1.params=
+comment1.target=Message\ encrypt()
+comment2.params=
+comment2.target=Message\ decrypt()
+comment3.params=shift\ cord
+comment3.target=java.lang.String\ getEncrypted(int,\ int)
+comment4.params=cord
+comment4.target=java.lang.String\ getDecrypted(int)
+comment5.params=letter
+comment5.target=int\ indexInPlain(java.lang.String)
+comment6.params=letter\ shift
+comment6.target=int\ indexInShifted(java.lang.String,\ int)
+numComments=7

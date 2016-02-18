@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=xCor1\ yCor1\ xCor2\ yCor2\ xCor3\ yCor3\ nName
+comment0.target=Map(double,\ double,\ double,\ double,\ double,\ double,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ user\ input\ locations.\r\n
+comment1.params=
+comment1.target=Map()
+comment1.text=\r\n\ Constructor\ for\ default\ locaitons.\r\n
+comment2.params=
+comment2.target=double\ getLargestDistance()
+comment2.text=\r\n\ This\ Methods\ finds\ the\ largest\ distance\ between\ the\ points.\r\n\ @return\ A\ double\ data\ type\ for\ the\ largest\ distance.\r\n
+comment3.params=
+comment3.target=double\ calcPerimeter()
+comment3.text=\r\n\ This\ Methods\ finds\ the\ perimeter\ of\ the\ triangle\ made\ by\ the\ points.\r\n\ @return\ A\ double\ data\ type\ for\ the\ perimeter.\r\n
+comment4.params=
+comment4.target=double\ calcArea()
+comment4.text=\r\n\ This\ Methods\ finds\ the\ area\ of\ the\ triangle\ made\ by\ the\ points.\r\n\ @return\ A\ double\ data\ type\ for\ the\ area.\r\n
+comment5.params=
+comment5.target=double\ calcBoundingCircleDiameter()
+comment5.text=\r\n\ This\ Methods\ finds\ the\ diameter\ of\ the\ bounding\ circle.\r\n\ @return\ A\ double\ data\ type\ for\ the\ circle\ diameter.\r\n
+comment6.params=
+comment6.target=double\ calcBoundingCircleArea()
+comment6.text=\r\n\ This\ Methods\ finds\ the\ area\ of\ the\ bounding\ circle.\r\n\ @return\ A\ double\ data\ type\ for\ the\ circle\ area.\r\n
+comment7.params=
+comment7.target=boolean\ isTriangle()
+comment7.text=\r\n\ This\ Methods\ finds\ if\ the\ map\ forms\ a\ triangle.\r\n\ @return\ A\ boolean\ data\ type\ for\ if\ it\ is\ a\ triangle\ or\ not.\r\n
+numComments=8
