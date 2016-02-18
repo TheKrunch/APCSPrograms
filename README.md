@@ -1,4 +1,4 @@
 #APCS Programs
-This should help me learn GitHub and Java.
-VERSION: 1.0
-AUTHOR: Matt Scalzo
+<br>This should help me learn GitHub and Java.
+<br>VERSION: 1.0
+<br>AUTHOR: Matt Scalzo
