@@ -1,4 +1,0 @@
-PROJECT TITLE: APCS Programs
-PURPOSE OF PROJECT: To learn GitHub and Java.
-VERSION or DATE: 1.0
-AUTHORS: Matt Scalzo
