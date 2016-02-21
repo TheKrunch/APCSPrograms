@@ -81,8 +81,91 @@ public class FishTest
         school.remove(15);
         school.remove(4);
         school.remove(18);
+        
+        for(Fish i: school)
+        {
+            i.swim();
+        }
+        System.out.println("****************");//This is to break up the outputs in the terminal.
+        
+        for(Fish i: school)
+        {
+            if(i.getAge() > 40)
+            {
+                i.die();
+            }
+        }
+        
+        for(Fish i: school)
+        {
+            i.swim();
+        }
+        System.out.println("****************");//This is to break up the outputs in the terminal.
+        
+        for(Fish i: school)
+        {
+            if(i.getIsAlive() == false)
+            {
+                System.out.println("Color: " + i.getColor());
+                System.out.println("Age: " + i.getAge());
+            }
+        }
+        
+        for(Fish i: school)
+        {
+            i.swim();
+        }
+        System.out.println("****************");//This is to break up the outputs in the terminal.
+        
+        ArrayList <Fish> theGreatBeyond = new ArrayList<Fish>();
+        
+        for(int i = 0; i < school.size(); i++)
+        {
+            Fish temp;
+            if(school.get(i).getIsAlive() == false)
+            {
+                System.out.println(i);
+                temp = school.remove(i);
+                theGreatBeyond.add(temp);
+            }
+        }
+        
+         for(int i = 0; i < school.size(); i++)//Calling this for loop twice I solved a problem.
+        {
+            Fish temp;
+            if(school.get(i).getIsAlive() == false)
+            {
+                System.out.println(i);
+                temp = school.remove(i);
+                theGreatBeyond.add(temp);
+            }
+        }
+        
+        for(Fish i: school)
+        {
+            i.swim();
+        }
+        System.out.println("****************");//This is to break up the outputs in the terminal.
+        
+        for(Fish i: theGreatBeyond)
+        {
+            i.swim();
+        }
+        System.out.println("****************");//This is to break up the outputs in the terminal.
+        
+        for(int i = 0; i < 5; i++)
+        {
+            school.add(new Fish());
+        }
+        
+        for(Fish i: school)
+        {
+            i.swim();
+        }
+        System.out.println("****************");//This is to break up the outputs in the terminal.
     }
 }
+
 
 
 
