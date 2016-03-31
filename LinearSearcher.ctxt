@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=anArray
+comment0.target=LinearSearcher(int[])
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ the\ LinearSearcher.\r\n\ \ \ \ \ \ @param\ anArray\ an\ array\ of\ integers\r\n
+comment1.params=v
+comment1.target=int\ search(int)
+comment1.text=\r\n\ \ \ \ \ \ Finds\ a\ value\ in\ an\ array,\ using\ the\ linear\ search\ \r\n\ \ \ \ \ \ algorithm.\r\n\ \ \ \ \ \ @param\ v\ the\ value\ to\ search\r\n\ \ \ \ \ \ @return\ the\ index\ at\ which\ the\ value\ occurs,\ or\ -1\r\n\ \ \ \ \ \ if\ it\ does\ not\ occur\ in\ the\ array\r\n
+numComments=2
